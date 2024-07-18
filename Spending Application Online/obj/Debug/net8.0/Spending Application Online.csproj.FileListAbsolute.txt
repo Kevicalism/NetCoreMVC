@@ -1,0 +1,30 @@
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\appsettings.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\Spending Application Online.staticwebassets.runtime.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\Spending Application Online.exe
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\Spending Application Online.deps.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\Spending Application Online.runtimeconfig.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\Spending Application Online.dll
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\bin\Debug\net8.0\Spending Application Online.pdb
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.AssemblyInfoInputs.cache
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.AssemblyInfo.cs
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.csproj.CoreCompileInputs.cache
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.RazorAssemblyInfo.cache
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.RazorAssemblyInfo.cs
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets\msbuild.Spending Application Online.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets\msbuild.build.Spending Application Online.props
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Spending Application Online.props
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Spending Application Online.props
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\scopedcss\bundle\Spending Application Online.styles.css
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\scopedcss\projectbundle\Spending Application Online.bundle.scp.css
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.dll
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\refint\Spending Application Online.dll
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.pdb
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\Spending Application Online.genruntimeconfig.cache
+C:\Users\kevic\source\repos\Spending Application Online\Spending Application Online\obj\Debug\net8.0\ref\Spending Application Online.dll
