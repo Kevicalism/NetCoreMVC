@@ -1,0 +1,103 @@
+﻿/* wwwroot/css/StyleSheet.css */
+
+/* Background for the entire page */
+body {
+    background-color: #e8f0fe; /* Light blue background */
+    font-family: 'Roboto', sans-serif; /* Use a modern font */
+    color: #333; /* Use a dark color for text for better readability */
+}
+
+/* Navbar styling */
+.navbar-custom {
+    background-color: #0056b3; /* Dark blue background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+    .navbar-custom .navbar-brand,
+    .navbar-custom .nav-link {
+        color: white; /* White text for links and brand */
+    }
+
+        .navbar-custom .nav-link:hover {
+            color: #ffc107; /* Yellow color on hover for links */
+        }
+
+/* Container for centering content */
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Styling for the main content area */
+.bg-light-blue {
+    background-color: #d0e7ff; /* Light blue color for the content area */
+    color: black; /* Ensure text is readable against the light blue background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 10px; /* Rounded corners for a softer look */
+    padding: 20px; /* Inner padding for spacing */
+    margin-bottom: 20px; /* Spacing below the content area */
+}
+
+/* Table styling */
+.table {
+    margin-top: 20px;
+}
+
+    .table th, .table td {
+        color: black; /* Ensure table text is readable */
+        vertical-align: middle; /* Center align table cell content vertically */
+    }
+
+/* Button styling */
+.btn-primary, .btn-danger, .btn-success, .btn-warning {
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease; /* Smooth transition */
+    padding: 10px 20px; /* Consistent padding for all buttons */
+    border-radius: 5px; /* Rounded corners */
+    font-weight: bold; /* Bold text for better visibility */
+}
+
+.btn-primary {
+    background-color: #007bff;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+.btn-danger {
+    background-color: #dc3545;
+}
+
+    .btn-danger:hover {
+        background-color: #b21f2d;
+    }
+
+.btn-success {
+    background-color: #28a745;
+}
+
+    .btn-success:hover {
+        background-color: #1e7e34;
+    }
+
+.btn-warning {
+    background-color: #ffc107;
+}
+
+    .btn-warning:hover {
+        background-color: #e0a800;
+    }
+
+.btn {
+    margin: 5px; /* Adding some margin for better spacing */
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+    color: #6c757d;
+    border-top: 1px solid #e0e0e0;
+}

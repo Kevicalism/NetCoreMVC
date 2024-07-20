@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\SpendSmart.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\kevic\\source\\repos\\SpendSmart\\Spending Application Online\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\kevic\\source\\repos\\SpendSmart\\Spending Application Online\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

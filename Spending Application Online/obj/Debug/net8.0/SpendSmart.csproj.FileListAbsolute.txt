@@ -98,3 +98,4 @@ C:\Users\kevic\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\refint\SpendS
 C:\Users\kevic\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.pdb
 C:\Users\kevic\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.genruntimeconfig.cache
 C:\Users\kevic\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\ref\SpendSmart.dll
+C:\Users\kevic\source\repos\SpendSmart\Spending Application Online\obj\Debug\net8.0\SpendSmart.sourcelink.json
